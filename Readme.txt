@@ -1,6 +1,7 @@
-Thanks for downloading this template!
+##For the local network(wifi) run 
+#python3 -m http.server 8000
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+
+##For the over the server(on the on the internet) run
+#python3 -m http.server 8000
+#ngrok http 8000    
